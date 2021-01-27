@@ -137,7 +137,7 @@
 				<Title>likusy</Title>
 				<Abstract>GH:likusy ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/mwilamowski/Mappia_Example/releases/download/Map_Download/likusy.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="20.40998444292967" miny="53.78639255399257" maxx="20.425832636351835" maxy="53.79130576270038"></LatLonBoundingBox>
